@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPMailClient", "SMTPMailClient\SMTPMailClient.csproj", "{A8D136B8-1BBD-4AEC-A419-5A07662A4265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D136B8-1BBD-4AEC-A419-5A07662A4265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D136B8-1BBD-4AEC-A419-5A07662A4265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D136B8-1BBD-4AEC-A419-5A07662A4265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D136B8-1BBD-4AEC-A419-5A07662A4265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873E8634-663C-4484-9C47-B29F6CCF3491}
+	EndGlobalSection
+EndGlobal
